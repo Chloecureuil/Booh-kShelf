@@ -29,33 +29,33 @@ Faire une bibliothèque en ligne avec filtre Read, To read, Interested, Liked.
 
 ### Description de l’application :
 
-**Layout_1 : (header)**
+**Layout_1 : (header)**                      //Gwen
 - Titre
 - Logo
 
-**Layout_2 : (footer)**
+**Layout_2 : (footer)**                      //Gwen
 - Discover
 - Catalog
 - Library
 - Account
 
 **Page 1 : (Index)**
-- Barre de recherche
+- Barre de recherche             //COMPONENT //Anto
+- Cards (carousel)                           //Chloe
 - (New quizz)
 - News
 - Week Selection
 
 **Page 2 : (catalog)**
-- Barre de recherche
-- Filtre
-- Book Add/Remove
+- Barre de recherche             //COMPONENT //Anto
+- Filtre                         //COMPONENT //Chloe
+- Book Add/Remove                //COMPONENT //Chloe
 
 **Page 3 : (personnal Library)**
-- Statistiques des livres lues
-- (Borrowed somewhere? Extend)
+- Statistiques des livres lues   //COMPONENT //Gwen
 - Books to read (en français : a lire/lu ?)
 
-**Page 4 : (Account)**
+**Page 4 : (Account)**          //COMPONENT  //Anto
 - Quizz ?
 - Name
 - Favorite
@@ -90,3 +90,5 @@ Faire une bibliothèque en ligne avec filtre Read, To read, Interested, Liked.
 ![Design 1](./docs/annexe/design-000.png)
 
 ![Design 2](./docs/annexe/design-001.png)
+
+
