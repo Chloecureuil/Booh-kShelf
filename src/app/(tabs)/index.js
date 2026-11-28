@@ -1,10 +1,9 @@
-import { Text, View, StyleSheet } from "react-native";
-import Card from "../../components/card";
+import { StyleSheet, Text, View } from "react-native";
 
 export default function Index() {
-  return(
-    <View>
-      </Card>
+  return (
+    <View style={styles.container}>
+      <Text>Edit src/app/(tabs)/index.js to edit this screen.</Text>
     </View>
   );
 }
